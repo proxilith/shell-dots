@@ -1,0 +1,10 @@
+require("user.plugins")
+require("user.options")
+require("plugins.lsp")
+require("plugins.cmp")
+require("plugins.telescope")
+require("plugins.tree")
+require("plugins.statusline")
+require("plugins.theme")
+require("plugins.term")
+
